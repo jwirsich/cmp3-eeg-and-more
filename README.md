@@ -1,4 +1,15 @@
-# Project 4: Contributing to Connectome Mapper 3
+# Brainhack 2022 Project 9: Contributing to Connectome Mapper 3 2022 Edition
+**Team members:** Isotta Rigoni, Xinyu Liu, Andrea Mckavanagh, Jonathan Wirsich
+
+## Targeted tasks
+
+-  Make CMP3 compatible with Windows 10
+	- see issue: https://github.com/connectomicslab/connectomemapper3/issues/220
+	- see fork: https://github.com/jwirsich/connectomemapper3/tree/cmp-win10
+	
+-  Run DSIstudio as a BIDSapp Docker container taking segmentation/preprocessing from CMP3
+
+# Brainhack 2021 Project 4: Contributing to Connectome Mapper 3
 
 **Principal Investigator:** Sébastien Tourbier (@sebastientourbier)
 
